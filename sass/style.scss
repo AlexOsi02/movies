@@ -176,9 +176,9 @@
                 height: 2px;
                 background-color: #FFD500;
             }
-            //&:hover {
+            &:hover {
                 .delete {
-                    //content: '';
+                    content: '';
                     display: block;
                     position: absolute;
                     right: 0px;
@@ -189,7 +189,7 @@
                     background: url('../icons/trash.png') center (center / cover) no-repeat;
                     cursor: pointer;
                 }
-            //}
+            }
         }
         .add {
             .promo__interactive-title {
